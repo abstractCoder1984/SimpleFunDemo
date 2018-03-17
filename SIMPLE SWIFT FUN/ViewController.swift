@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
         
         view.backgroundColor = #colorLiteral(red: 0.9921568627, green: 0.7176470588, blue: 0.007843137255, alpha: 1)
         headline.text = "Abhi is cool"
